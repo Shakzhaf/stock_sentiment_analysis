@@ -12,3 +12,6 @@ Sentiment analysis is the measurement of neutral, negative, and positive languag
 
 ### Data Understanding and exploration
 Since this is a timeseries data we have taken all data before date 2015/01/01 in train and data on and after date 2015/01/01 in test.
+
+### Data cleaning
+We have removed all punctuations and special characters from the data and all characters have been converted to lower cases.
